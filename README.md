@@ -22,8 +22,7 @@ Przed uruchomieniem projektu należy upewnić się, że są zainstalowane odpowi
 
 1. Klonowanie repozytorium
 ```
-git clone https://gitlab-stud.elka.pw.edu.pl/pap26/pap_project
-cd ./pap_project
+git clone https://github.com/ZwhsmD/School-E-Registry
 ```
 
 2. Instalowanie zależności
@@ -54,7 +53,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 ...
 ```
 
-2. pap_project/docker-compose.yml
+2. docker-compose.yml
 ```
 ...
 backend:
